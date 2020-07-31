@@ -1,3 +1,5 @@
 name: Leo Lo's contemplation
 markdown: kramdown
 theme: jekyll-theme-cayman
+
+permalink: /blog/:year/:month/:day/:title
