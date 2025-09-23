@@ -440,16 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-was-named-a-goldwater-scholar",
+          title: 'I was named a Goldwater Scholar!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-on-inherited-topological-superconductivity-in-2d-dirac-semimetals-is-published",
+          title: 'Our paper on inherited topological superconductivity in 2D Dirac semimetals is published!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-was-awarded-the-nsf-graduate-research-fellowship",
+          title: 'I was awarded the NSF Graduate Research Fellowship!',
+          description: "",
+          section: "News",},{id: "news-i-was-elected-to-phi-beta-kappa",
+          title: 'I was elected to Phi Beta Kappa!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
