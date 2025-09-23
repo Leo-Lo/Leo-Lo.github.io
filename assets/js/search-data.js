@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -325,6 +318,17 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
+      },{id: "post-an-unconventional-way-in-evaluating-operator-valued-gaussian-integrals",
+        
+          title: "An Unconventional Way in evaluating operator-valued Gaussian integrals",
+        
+        description: "To hell with ordering at first, and ask for forgiveness later.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/operator-valued-Gaussian-integrals/";
+          
+        },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
         
           title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -336,6 +340,39 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
+      },{id: "post-christofel-symbol",
+        
+          title: "Christofel symbol",
+        
+        description: "A nice little derivation",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/Christofel-symbol/";
+          
+        },
+      },{id: "post-taking-complex-conjugate-of-fourier-transform",
+        
+          title: "Taking complex conjugate of Fourier transform",
+        
+        description: "First the wrong way, then the right way",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/fourier/";
+          
+        },
+      },{id: "post-tight-binding-convention",
+        
+          title: "Tight-binding convention",
+        
+        description: "Fourier transform convention for the 2nd quantized operators",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/tight-binding-convention/";
+          
+        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -345,6 +382,72 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/assets/pdf/example_pdf.pdf";
+          
+        },
+      },{id: "post-the-first-isomorphism-theorem-incomplete",
+        
+          title: "The first isomorphism theorem (incomplete)",
+        
+        description: "probably one of the most used theorem in group theory",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/1st-isomorphism-theorem/";
+          
+        },
+      },{id: "post-the-second-isomorphism-theorem",
+        
+          title: "The second isomorphism theorem",
+        
+        description: "AKA the diamond theorem",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/2nd-isomorphism-theorem/";
+          
+        },
+      },{id: "post-interesting-transformation-in-quantum-theories",
+        
+          title: "Interesting transformation in quantum theories",
+        
+        description: "A list in progress",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/interesting-transformation/";
+          
+        },
+      },{id: "post-how-to-detect-entanglement-in-pure-state-very-rough-draft",
+        
+          title: "How to detect entanglement in pure state (very rough draft)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/detect-entanglement-pure/";
+          
+        },
+      },{id: "post-entanglement-polygamy-is-possible-for-qudits-draft",
+        
+          title: "Entanglement polygamy is possible for qudits (draft)",
+        
+        description: "Or, given more room, quantum particles enjoy more company.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/entanglement-polygamy-distill/";
+          
+        },
+      },{id: "post-why-do-ghosts-appear-in-gauge-theories",
+        
+          title: "Why do ghosts appear in gauge theories?",
+        
+        description: "Because it&#39;s Halloween",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/why-ghost/";
           
         },
       },{id: "post-a-post-with-diagrams",
