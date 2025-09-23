@@ -28,5 +28,3 @@ I am a fourth year physics PhD student at the Condensed Matter Theory group at H
 
 When I am not doing physics (which is becoming increasingly rare!), I like rock climbing, playing the flute, coming up with random melodies, and biking. And here is a [random rock](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=leolo) in our solar system.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
