@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth year physics PhD student at the Condensed Matter Theory group at Harvard University, working with Professor Ashvin Vishwanath. I am broadly interested in quantum information and quantum phases of matters (especially topological order).
+I am a fourth year physics PhD student in the [Condensed Matter Theory group](https://avishwanath.scholars.harvard.edu/) at Harvard University, working with Professor [Ashvin Vishwanath](https://www.physics.harvard.edu/people/facpages/vishwanath). I am broadly interested in quantum information and quantum phases of matters (especially topological order).
 
-When I am not doing physics (which is becoming increasingly rare!), I like rock climbing, playing the flute, coming up with random melodies, and biking. And here is a [random rock](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=leolo) in our solar system.
+When I am not doing physics (which is becoming increasingly rare!), I like rock climbing, playing the flute, coming up with random melodies, and running. And here is a [random rock](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=leolo) in our solar system.
 
