@@ -16,26 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "dropdown-bookshelf",
+        },{id: "dropdown-blog",
+              title: "Blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/books/";
-              },
-            },{id: "dropdown-repositories",
-              title: "repositories",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/repositories/";
               },
             },{id: "post-an-unconventional-way-in-evaluating-operator-valued-gaussian-integrals",
         
