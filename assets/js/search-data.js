@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "dropdown-blog",
               title: "Blog",
               description: "",
@@ -140,12 +147,7 @@ ninja.data = [{
             window.location.href = "/blog/2021/why-ghost/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-was-named-a-goldwater-scholar",
+      },{id: "news-i-was-named-a-goldwater-scholar",
           title: 'I was named a Goldwater Scholar!',
           description: "",
           section: "News",},{id: "news-our-paper-on-inherited-topological-superconductivity-in-2d-dirac-semimetals-is-published",
